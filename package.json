@@ -1,0 +1,15 @@
+{
+  "name": "google-search-server",
+  "version": "1.0.0",
+  "description": "A server that performs Google searches and returns the results in JSON format.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^20.1.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
